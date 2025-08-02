@@ -1,0 +1,16 @@
+# Executables
+nn_layer
+mnist_classifier
+mnist_real
+
+# Object files
+*.o
+
+# Data files (large)
+data/*.idx3-ubyte
+data/*.idx1-ubyte
+data/*.gz
+
+# Backup files
+*~
+*.swp
